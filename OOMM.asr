@@ -1,0 +1,1020 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Syam\Documents\EuroScope\OOMM\OOMM.sct
+SECTORTITLE:OOMM.sct
+Airports:OOAD:name
+Airports:OOAD:symbol
+Airports:OOFD:name
+Airports:OOFD:symbol
+Airports:OOGB:name
+Airports:OOGB:symbol
+Airports:OOIZ:name
+Airports:OOIZ:symbol
+Airports:OOKB:name
+Airports:OOKB:symbol
+Airports:OOMA:name
+Airports:OOMA:symbol
+Airports:OOMK:name
+Airports:OOMK:symbol
+Airports:OOMS:name
+Airports:OOMS:symbol
+Airports:OOMX:name
+Airports:OOMX:symbol
+Airports:OOSA:name
+Airports:OOSA:symbol
+Airports:OOTH:name
+Airports:OOTH:symbol
+ARTCC boundary:F:
+ARTCC high boundary:H:
+ARTCC low boundary:L:
+Fixes:11DME:name
+Fixes:11DME:symbol
+Fixes:15DME:name
+Fixes:15DME:symbol
+Fixes:1760E:name
+Fixes:1760E:symbol
+Fixes:19MCT:name
+Fixes:19MCT:symbol
+Fixes:25DME:name
+Fixes:25DME:symbol
+Fixes:ABGDA:name
+Fixes:ABGDA:symbol
+Fixes:AGHDA:name
+Fixes:AGHDA:symbol
+Fixes:AIWAH:name
+Fixes:AIWAH:symbol
+Fixes:ALAMA:name
+Fixes:ALAMA:symbol
+Fixes:ALKED:name
+Fixes:ALKED:symbol
+Fixes:ALMOG:name
+Fixes:ALMOG:symbol
+Fixes:ALNES:name
+Fixes:ALNES:symbol
+Fixes:ALNSN:name
+Fixes:ALNSN:symbol
+Fixes:ALNUM:name
+Fixes:ALNUM:symbol
+Fixes:ALNUN:name
+Fixes:ALNUN:symbol
+Fixes:ALPOR:name
+Fixes:ALPOR:symbol
+Fixes:ALSAS:name
+Fixes:ALSAS:symbol
+Fixes:AMBOS:name
+Fixes:AMBOS:symbol
+Fixes:AMBOX:name
+Fixes:AMBOX:symbol
+Fixes:ANGAL:name
+Fixes:ANGAL:symbol
+Fixes:ANVIX:name
+Fixes:ANVIX:symbol
+Fixes:APELO:name
+Fixes:APELO:symbol
+Fixes:ASLOL:name
+Fixes:ASLOL:symbol
+Fixes:ASMAK:name
+Fixes:ASMAK:symbol
+Fixes:ASPUX:name
+Fixes:ASPUX:symbol
+Fixes:ASTUN:name
+Fixes:ASTUN:symbol
+Fixes:ASVAD:name
+Fixes:ASVAD:symbol
+Fixes:ATBED:name
+Fixes:ATBED:symbol
+Fixes:AUH97:name
+Fixes:AUH97:symbol
+Fixes:AVAMI:name
+Fixes:AVAMI:symbol
+Fixes:BHAT:name
+Fixes:BHAT:symbol
+Fixes:BILAK:name
+Fixes:BILAK:symbol
+Fixes:BILKA:name
+Fixes:BILKA:symbol
+Fixes:BORUL:name
+Fixes:BORUL:symbol
+Fixes:BOSOV:name
+Fixes:BOSOV:symbol
+Fixes:BOVOS:name
+Fixes:BOVOS:symbol
+Fixes:BOXUR:name
+Fixes:BOXUR:symbol
+Fixes:BUBAS:name
+Fixes:BUBAS:symbol
+Fixes:BUBIN:name
+Fixes:BUBIN:symbol
+Fixes:DAMUK:name
+Fixes:DAMUK:symbol
+Fixes:DAMUM:name
+Fixes:DAMUM:symbol
+Fixes:DANIG:name
+Fixes:DANIG:symbol
+Fixes:DAPAB:name
+Fixes:DAPAB:symbol
+Fixes:DAPOK:name
+Fixes:DAPOK:symbol
+Fixes:DARAB:name
+Fixes:DARAB:symbol
+Fixes:DARAX:name
+Fixes:DARAX:symbol
+Fixes:DASTO:name
+Fixes:DASTO:symbol
+Fixes:DATBU:name
+Fixes:DATBU:symbol
+Fixes:DATIK:name
+Fixes:DATIK:symbol
+Fixes:DATRA:name
+Fixes:DATRA:symbol
+Fixes:DAXAM:name
+Fixes:DAXAM:symbol
+Fixes:DEBES:name
+Fixes:DEBES:symbol
+Fixes:DEDSO:name
+Fixes:DEDSO:symbol
+Fixes:DEMKI:name
+Fixes:DEMKI:symbol
+Fixes:DENDA:name
+Fixes:DENDA:symbol
+Fixes:DESPA:name
+Fixes:DESPA:symbol
+Fixes:DETKA:name
+Fixes:DETKA:symbol
+Fixes:DITOX:name
+Fixes:DITOX:symbol
+Fixes:DIVAB:name
+Fixes:DIVAB:symbol
+Fixes:DIXAM:name
+Fixes:DIXAM:symbol
+Fixes:DORAB:name
+Fixes:DORAB:symbol
+Fixes:DUDRI:name
+Fixes:DUDRI:symbol
+Fixes:EGLES:name
+Fixes:EGLES:symbol
+Fixes:EGMIX:name
+Fixes:EGMIX:symbol
+Fixes:EGNUX:name
+Fixes:EGNUX:symbol
+Fixes:EGPAN:name
+Fixes:EGPAN:symbol
+Fixes:EGPER:name
+Fixes:EGPER:symbol
+Fixes:EGPIC:name
+Fixes:EGPIC:symbol
+Fixes:EGROK:name
+Fixes:EGROK:symbol
+Fixes:EGRON:name
+Fixes:EGRON:symbol
+Fixes:EGSOP:name
+Fixes:EGSOP:symbol
+Fixes:EGTAL:name
+Fixes:EGTAL:symbol
+Fixes:EGVAN:name
+Fixes:EGVAN:symbol
+Fixes:ELIGO:name
+Fixes:ELIGO:symbol
+Fixes:ELUDA:name
+Fixes:ELUDA:symbol
+Fixes:EMOPI:name
+Fixes:EMOPI:symbol
+Fixes:EMORA:name
+Fixes:EMORA:symbol
+Fixes:EMUGU:name
+Fixes:EMUGU:symbol
+Fixes:EMURU:name
+Fixes:EMURU:symbol
+Fixes:ENADA:name
+Fixes:ENADA:symbol
+Fixes:ENADO:name
+Fixes:ENADO:symbol
+Fixes:ENALI:name
+Fixes:ENALI:symbol
+Fixes:ERDAX:name
+Fixes:ERDAX:symbol
+Fixes:ESVAD:name
+Fixes:ESVAD:symbol
+Fixes:FJ929:name
+Fixes:FJ929:symbol
+Fixes:GADMA:name
+Fixes:GADMA:symbol
+Fixes:GAGLA:name
+Fixes:GAGLA:symbol
+Fixes:GB120:name
+Fixes:GB120:symbol
+Fixes:GB121:name
+Fixes:GB121:symbol
+Fixes:GB122:name
+Fixes:GB122:symbol
+Fixes:GB123:name
+Fixes:GB123:symbol
+Fixes:GB124:name
+Fixes:GB124:symbol
+Fixes:GB125:name
+Fixes:GB125:symbol
+Fixes:GB126:name
+Fixes:GB126:symbol
+Fixes:GB127:name
+Fixes:GB127:symbol
+Fixes:GB128:name
+Fixes:GB128:symbol
+Fixes:GB129:name
+Fixes:GB129:symbol
+Fixes:GB300:name
+Fixes:GB300:symbol
+Fixes:GB301:name
+Fixes:GB301:symbol
+Fixes:GB302:name
+Fixes:GB302:symbol
+Fixes:GB303:name
+Fixes:GB303:symbol
+Fixes:GB304:name
+Fixes:GB304:symbol
+Fixes:GB305:name
+Fixes:GB305:symbol
+Fixes:GB306:name
+Fixes:GB306:symbol
+Fixes:GB307:name
+Fixes:GB307:symbol
+Fixes:GB308:name
+Fixes:GB308:symbol
+Fixes:GB309:name
+Fixes:GB309:symbol
+Fixes:GEPOT:name
+Fixes:GEPOT:symbol
+Fixes:GERAR:name
+Fixes:GERAR:symbol
+Fixes:GEVED:name
+Fixes:GEVED:symbol
+Fixes:GEVIL:name
+Fixes:GEVIL:symbol
+Fixes:GIBAT:name
+Fixes:GIBAT:symbol
+Fixes:GIDAN:name
+Fixes:GIDAN:symbol
+Fixes:GIDAS:name
+Fixes:GIDAS:symbol
+Fixes:GIDIM:name
+Fixes:GIDIM:symbol
+Fixes:GIDIS:name
+Fixes:GIDIS:symbol
+Fixes:GINBO:name
+Fixes:GINBO:symbol
+Fixes:GISKA:name
+Fixes:GISKA:symbol
+Fixes:GISMO:name
+Fixes:GISMO:symbol
+Fixes:GIVNO:name
+Fixes:GIVNO:symbol
+Fixes:GOBRO:name
+Fixes:GOBRO:symbol
+Fixes:GOGRI:name
+Fixes:GOGRI:symbol
+Fixes:GOLNI:name
+Fixes:GOLNI:symbol
+Fixes:GOMTA:name
+Fixes:GOMTA:symbol
+Fixes:GONDO:name
+Fixes:GONDO:symbol
+Fixes:HAZIR:name
+Fixes:HAZIR:symbol
+Fixes:IMDAM:name
+Fixes:IMDAM:symbol
+Fixes:IMDEK:name
+Fixes:IMDEK:symbol
+Fixes:IMKAD:name
+Fixes:IMKAD:symbol
+Fixes:IMKIR:name
+Fixes:IMKIR:symbol
+Fixes:IMLOT:name
+Fixes:IMLOT:symbol
+Fixes:IMPOS:name
+Fixes:IMPOS:symbol
+Fixes:IMREM:name
+Fixes:IMREM:symbol
+Fixes:IMREX:name
+Fixes:IMREX:symbol
+Fixes:IMTEN:name
+Fixes:IMTEN:symbol
+Fixes:IMW11:name
+Fixes:IMW11:symbol
+Fixes:ITELI:name
+Fixes:ITELI:symbol
+Fixes:ITILA:name
+Fixes:ITILA:symbol
+Fixes:ITLOB:name
+Fixes:ITLOB:symbol
+Fixes:ITRAX:name
+Fixes:ITRAX:symbol
+Fixes:ITUDO:name
+Fixes:ITUDO:symbol
+Fixes:ITURA:name
+Fixes:ITURA:symbol
+Fixes:ITUVO:name
+Fixes:ITUVO:symbol
+Fixes:IVETO:name
+Fixes:IVETO:symbol
+Fixes:IVOMA:name
+Fixes:IVOMA:symbol
+Fixes:IVUGA:name
+Fixes:IVUGA:symbol
+Fixes:KADER:name
+Fixes:KADER:symbol
+Fixes:KANAS:name
+Fixes:KANAS:symbol
+Fixes:KANEM:name
+Fixes:KANEM:symbol
+Fixes:KAPET:name
+Fixes:KAPET:symbol
+Fixes:KAPOP:name
+Fixes:KAPOP:symbol
+Fixes:KARAR:name
+Fixes:KARAR:symbol
+Fixes:KARER:name
+Fixes:KARER:symbol
+Fixes:KARLO:name
+Fixes:KARLO:symbol
+Fixes:KAXEM:name
+Fixes:KAXEM:symbol
+Fixes:KEBAS:name
+Fixes:KEBAS:symbol
+Fixes:KEBER:name
+Fixes:KEBER:symbol
+Fixes:KHM15:name
+Fixes:KHM15:symbol
+Fixes:KIBIT:name
+Fixes:KIBIT:symbol
+Fixes:KINOX:name
+Fixes:KINOX:symbol
+Fixes:KIPEK:name
+Fixes:KIPEK:symbol
+Fixes:KIPOL:name
+Fixes:KIPOL:symbol
+Fixes:KIROP:name
+Fixes:KIROP:symbol
+Fixes:KITAB:name
+Fixes:KITAB:symbol
+Fixes:KITAL:name
+Fixes:KITAL:symbol
+Fixes:KIVEL:name
+Fixes:KIVEL:symbol
+Fixes:KIXID:name
+Fixes:KIXID:symbol
+Fixes:KULTI:name
+Fixes:KULTI:symbol
+Fixes:KUNUS:name
+Fixes:KUNUS:symbol
+Fixes:KUPMA:name
+Fixes:KUPMA:symbol
+Fixes:KURLI:name
+Fixes:KURLI:symbol
+Fixes:KUROV:name
+Fixes:KUROV:symbol
+Fixes:KURTA:name
+Fixes:KURTA:symbol
+Fixes:KUSEN:name
+Fixes:KUSEN:symbol
+Fixes:KUSRA:name
+Fixes:KUSRA:symbol
+Fixes:KUTVI:name
+Fixes:KUTVI:symbol
+Fixes:KUVIP:name
+Fixes:KUVIP:symbol
+Fixes:KUVRO:name
+Fixes:KUVRO:symbol
+Fixes:LABED:name
+Fixes:LABED:symbol
+Fixes:LABRI:name
+Fixes:LABRI:symbol
+Fixes:LABSA:name
+Fixes:LABSA:symbol
+Fixes:LADAR:name
+Fixes:LADAR:symbol
+Fixes:LAGLI:name
+Fixes:LAGLI:symbol
+Fixes:LAKLU:name
+Fixes:LAKLU:symbol
+Fixes:LAKTU:name
+Fixes:LAKTU:symbol
+Fixes:LALDO:name
+Fixes:LALDO:symbol
+Fixes:LATEM:name
+Fixes:LATEM:symbol
+Fixes:LCB55:name
+Fixes:LCB55:symbol
+Fixes:LOSIM:name
+Fixes:LOSIM:symbol
+Fixes:LOTAV:name
+Fixes:LOTAV:symbol
+Fixes:LOTEL:name
+Fixes:LOTEL:symbol
+Fixes:LOXAM:name
+Fixes:LOXAM:symbol
+Fixes:LOXOP:name
+Fixes:LOXOP:symbol
+Fixes:LUDID:name
+Fixes:LUDID:symbol
+Fixes:MEKNA:name
+Fixes:MEKNA:symbol
+Fixes:MEKTO:name
+Fixes:MEKTO:symbol
+Fixes:MENSA:name
+Fixes:MENSA:symbol
+Fixes:MEPTI:name
+Fixes:MEPTI:symbol
+Fixes:METBI:name
+Fixes:METBI:symbol
+Fixes:MEVLI:name
+Fixes:MEVLI:symbol
+Fixes:MIBSA:name
+Fixes:MIBSA:symbol
+Fixes:MIBSI:name
+Fixes:MIBSI:symbol
+Fixes:MIRUN:name
+Fixes:MIRUN:symbol
+Fixes:MIXOL:name
+Fixes:MIXOL:symbol
+Fixes:MOBAB:name
+Fixes:MOBAB:symbol
+Fixes:MOGOK:name
+Fixes:MOGOK:symbol
+Fixes:MT17:name
+Fixes:MT17:symbol
+Fixes:MUNGA:name
+Fixes:MUNGA:symbol
+Fixes:MUSAP:name
+Fixes:MUSAP:symbol
+Fixes:MUSAS:name
+Fixes:MUSAS:symbol
+Fixes:MUSRU:name
+Fixes:MUSRU:symbol
+Fixes:MUSUK:name
+Fixes:MUSUK:symbol
+Fixes:MUTVA:name
+Fixes:MUTVA:symbol
+Fixes:MUVGI:name
+Fixes:MUVGI:symbol
+Fixes:MX141:name
+Fixes:MX141:symbol
+Fixes:MX142:name
+Fixes:MX142:symbol
+Fixes:MX143:name
+Fixes:MX143:symbol
+Fixes:MX144:name
+Fixes:MX144:symbol
+Fixes:MX146:name
+Fixes:MX146:symbol
+Fixes:MX147:name
+Fixes:MX147:symbol
+Fixes:MX321:name
+Fixes:MX321:symbol
+Fixes:MX322:name
+Fixes:MX322:symbol
+Fixes:MX323:name
+Fixes:MX323:symbol
+Fixes:MX324:name
+Fixes:MX324:symbol
+Fixes:MX326:name
+Fixes:MX326:symbol
+Fixes:MX327:name
+Fixes:MX327:symbol
+Fixes:MX328:name
+Fixes:MX328:symbol
+Fixes:MX329:name
+Fixes:MX329:symbol
+Fixes:MX331:name
+Fixes:MX331:symbol
+Fixes:NADNI:name
+Fixes:NADNI:symbol
+Fixes:NADSO:name
+Fixes:NADSO:symbol
+Fixes:NAGEX:name
+Fixes:NAGEX:symbol
+Fixes:NAGRO:name
+Fixes:NAGRO:symbol
+Fixes:NAKAD:name
+Fixes:NAKAD:symbol
+Fixes:NAKSA:name
+Fixes:NAKSA:symbol
+Fixes:NALKI:name
+Fixes:NALKI:symbol
+Fixes:NALTI:name
+Fixes:NALTI:symbol
+Fixes:NAMVA:name
+Fixes:NAMVA:symbol
+Fixes:NANRI:name
+Fixes:NANRI:symbol
+Fixes:NIVKA:name
+Fixes:NIVKA:symbol
+Fixes:NIVRO:name
+Fixes:NIVRO:symbol
+Fixes:NODMA:name
+Fixes:NODMA:symbol
+Fixes:NODUT:name
+Fixes:NODUT:symbol
+Fixes:NOSMI:name
+Fixes:NOSMI:symbol
+Fixes:NOSRO:name
+Fixes:NOSRO:symbol
+Fixes:NOVNA:name
+Fixes:NOVNA:symbol
+Fixes:NOVNO:name
+Fixes:NOVNO:symbol
+Fixes:OBSEN:name
+Fixes:OBSEN:symbol
+Fixes:OBTAS:name
+Fixes:OBTAS:symbol
+Fixes:OBTIK:name
+Fixes:OBTIK:symbol
+Fixes:OBTIN:name
+Fixes:OBTIN:symbol
+Fixes:ODAKA:name
+Fixes:ODAKA:symbol
+Fixes:OMFJ:name
+Fixes:OMFJ:symbol
+Fixes:OPSIL:name
+Fixes:OPSIL:symbol
+Fixes:ORBIX:name
+Fixes:ORBIX:symbol
+Fixes:ORGIK:name
+Fixes:ORGIK:symbol
+Fixes:ORKON:name
+Fixes:ORKON:symbol
+Fixes:ORNAV:name
+Fixes:ORNAV:symbol
+Fixes:ORSAR:name
+Fixes:ORSAR:symbol
+Fixes:ORSIT:name
+Fixes:ORSIT:symbol
+Fixes:OTISA:name
+Fixes:OTISA:symbol
+Fixes:OTOTO:name
+Fixes:OTOTO:symbol
+Fixes:OVUPO:name
+Fixes:OVUPO:symbol
+Fixes:PARAR:name
+Fixes:PARAR:symbol
+Fixes:PARET:name
+Fixes:PARET:symbol
+Fixes:PAROK:name
+Fixes:PAROK:symbol
+Fixes:PASOV:name
+Fixes:PASOV:symbol
+Fixes:PASUL:name
+Fixes:PASUL:symbol
+Fixes:PATAP:name
+Fixes:PATAP:symbol
+Fixes:PAVIL:name
+Fixes:PAVIL:symbol
+Fixes:PAXES:name
+Fixes:PAXES:symbol
+Fixes:PAXIM:name
+Fixes:PAXIM:symbol
+Fixes:PAXUG:name
+Fixes:PAXUG:symbol
+Fixes:PURBU:name
+Fixes:PURBU:symbol
+Fixes:PURNI:name
+Fixes:PURNI:symbol
+Fixes:PURUG:name
+Fixes:PURUG:symbol
+Fixes:PUTRA:name
+Fixes:PUTRA:symbol
+Fixes:PUTSO:name
+Fixes:PUTSO:symbol
+Fixes:PUTUN:name
+Fixes:PUTUN:symbol
+Fixes:QISHN:name
+Fixes:QISHN:symbol
+Fixes:RABON:name
+Fixes:RABON:symbol
+Fixes:RADAX:name
+Fixes:RADAX:symbol
+Fixes:RADOT:name
+Fixes:RADOT:symbol
+Fixes:RADRO:name
+Fixes:RADRO:symbol
+Fixes:RADVI:name
+Fixes:RADVI:symbol
+Fixes:RAGMA:name
+Fixes:RAGMA:symbol
+Fixes:RAGUM:name
+Fixes:RAGUM:symbol
+Fixes:RAMZI:name
+Fixes:RAMZI:symbol
+Fixes:RANKI:name
+Fixes:RANKI:symbol
+Fixes:RARBA:name
+Fixes:RARBA:symbol
+Fixes:RASKI:name
+Fixes:RASKI:symbol
+Fixes:RASKO:name
+Fixes:RASKO:symbol
+Fixes:RAV02:name
+Fixes:RAV02:symbol
+Fixes:RETAS:name
+Fixes:RETAS:symbol
+Fixes:REXOD:name
+Fixes:REXOD:symbol
+Fixes:RIBAL:name
+Fixes:RIBAL:symbol
+Fixes:RIGAM:name
+Fixes:RIGAM:symbol
+Fixes:RIGIL:name
+Fixes:RIGIL:symbol
+Fixes:RIKET:name
+Fixes:RIKET:symbol
+Fixes:RUKIX:name
+Fixes:RUKIX:symbol
+Fixes:RUMAH:name
+Fixes:RUMAH:symbol
+Fixes:SABEL:name
+Fixes:SABEL:symbol
+Fixes:SANAU:name
+Fixes:SANAU:symbol
+Fixes:SEPRA:name
+Fixes:SEPRA:symbol
+Fixes:SETSI:name
+Fixes:SETSI:symbol
+Fixes:SEVLA:name
+Fixes:SEVLA:symbol
+Fixes:SIDKA:name
+Fixes:SIDKA:symbol
+Fixes:SILPA:name
+Fixes:SILPA:symbol
+Fixes:SIMKO:name
+Fixes:SIMKO:symbol
+Fixes:SIMSO:name
+Fixes:SIMSO:symbol
+Fixes:SIRAB:name
+Fixes:SIRAB:symbol
+Fixes:SITOL:name
+Fixes:SITOL:symbol
+Fixes:SIXAV:name
+Fixes:SIXAV:symbol
+Fixes:SL35A:name
+Fixes:SL35A:symbol
+Fixes:SLL29:name
+Fixes:SLL29:symbol
+Fixes:SLL35:name
+Fixes:SLL35:symbol
+Fixes:SLL36:name
+Fixes:SLL36:symbol
+Fixes:SLL40:name
+Fixes:SLL40:symbol
+Fixes:SODAD:name
+Fixes:SODAD:symbol
+Fixes:SODEB:name
+Fixes:SODEB:symbol
+Fixes:SODEX:name
+Fixes:SODEX:symbol
+Fixes:SOLAG:name
+Fixes:SOLAG:symbol
+Fixes:SOLUD:name
+Fixes:SOLUD:symbol
+Fixes:SUADI:name
+Fixes:SUADI:symbol
+Fixes:SUR53:name
+Fixes:SUR53:symbol
+Fixes:TAPDO:name
+Fixes:TAPDO:symbol
+Fixes:TAPRA:name
+Fixes:TAPRA:symbol
+Fixes:TARBO:name
+Fixes:TARBO:symbol
+Fixes:TARDI:name
+Fixes:TARDI:symbol
+Fixes:TARIK:name
+Fixes:TARIK:symbol
+Fixes:TARVI:name
+Fixes:TARVI:symbol
+Fixes:TAVKO:name
+Fixes:TAVKO:symbol
+Fixes:TAVLI:name
+Fixes:TAVLI:symbol
+Fixes:THAMD:name
+Fixes:THAMD:symbol
+Fixes:THR03:name
+Fixes:THR03:symbol
+Fixes:THR3A:name
+Fixes:THR3A:symbol
+Fixes:TIMAX:name
+Fixes:TIMAX:symbol
+Fixes:TISER:name
+Fixes:TISER:symbol
+Fixes:TMR12:name
+Fixes:TMR12:symbol
+Fixes:TMR14:name
+Fixes:TMR14:symbol
+Fixes:TMR16:name
+Fixes:TMR16:symbol
+Fixes:TOKPU:name
+Fixes:TOKPU:symbol
+Fixes:TOKRA:name
+Fixes:TOKRA:symbol
+Fixes:TOLDA:name
+Fixes:TOLDA:symbol
+Fixes:TONRO:name
+Fixes:TONRO:symbol
+Fixes:TONVO:name
+Fixes:TONVO:symbol
+Fixes:TOPSO:name
+Fixes:TOPSO:symbol
+Fixes:TOTOX:name
+Fixes:TOTOX:symbol
+Fixes:TUBAT:name
+Fixes:TUBAT:symbol
+Fixes:TUBIR:name
+Fixes:TUBIR:symbol
+Fixes:TUBSA:name
+Fixes:TUBSA:symbol
+Fixes:TULBU:name
+Fixes:TULBU:symbol
+Fixes:TUMET:name
+Fixes:TUMET:symbol
+Fixes:UKNEN:name
+Fixes:UKNEN:symbol
+Fixes:UKORA:name
+Fixes:UKORA:symbol
+Fixes:UMILA:name
+Fixes:UMILA:symbol
+Fixes:UMINA:name
+Fixes:UMINA:symbol
+Fixes:VATUR:name
+Fixes:VATUR:symbol
+Fixes:VAXAS:name
+Fixes:VAXAS:symbol
+Fixes:VAXIM:name
+Fixes:VAXIM:symbol
+Fixes:VEKAN:name
+Fixes:VEKAN:symbol
+Fixes:VELIK:name
+Fixes:VELIK:symbol
+Fixes:VEMEN:name
+Fixes:VEMEN:symbol
+Fixes:VUSET:name
+Fixes:VUSET:symbol
+Fixes:VUSIN:name
+Fixes:VUSIN:symbol
+Fixes:VUTAP:name
+Fixes:VUTAP:symbol
+Fixes:VUVTA:name
+Fixes:VUVTA:symbol
+Free Text:FIR_Ids\OBBB:freetext
+Free Text:FIR_Ids\OOMM:freetext
+Free Text:FIR_Ids\OYSC:freetext
+Free Text:FIR_Ids\VABF:freetext
+Free Text:OOKB\1:freetext
+Free Text:OOKB\10:freetext
+Free Text:OOKB\11:freetext
+Free Text:OOKB\2:freetext
+Free Text:OOKB\3:freetext
+Free Text:OOKB\4:freetext
+Free Text:OOKB\5:freetext
+Free Text:OOKB\6:freetext
+Free Text:OOKB\7:freetext
+Free Text:OOKB\8:freetext
+Free Text:OOKB\9:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\0:freetext
+Free Text:OOMS\1:freetext
+Free Text:OOMS\10:freetext
+Free Text:OOMS\11:freetext
+Free Text:OOMS\12:freetext
+Free Text:OOMS\13:freetext
+Free Text:OOMS\14:freetext
+Free Text:OOMS\15:freetext
+Free Text:OOMS\16:freetext
+Free Text:OOMS\2:freetext
+Free Text:OOMS\21:freetext
+Free Text:OOMS\22:freetext
+Free Text:OOMS\23:freetext
+Free Text:OOMS\24:freetext
+Free Text:OOMS\25:freetext
+Free Text:OOMS\26:freetext
+Free Text:OOMS\27:freetext
+Free Text:OOMS\28:freetext
+Free Text:OOMS\29:freetext
+Free Text:OOMS\3:freetext
+Free Text:OOMS\30:freetext
+Free Text:OOMS\31:freetext
+Free Text:OOMS\32:freetext
+Free Text:OOMS\33:freetext
+Free Text:OOMS\34:freetext
+Free Text:OOMS\35:freetext
+Free Text:OOMS\36:freetext
+Free Text:OOMS\4:freetext
+Free Text:OOMS\5:freetext
+Free Text:OOMS\57:freetext
+Free Text:OOMS\58:freetext
+Free Text:OOMS\59:freetext
+Free Text:OOMS\6:freetext
+Free Text:OOMS\60:freetext
+Free Text:OOMS\61:freetext
+Free Text:OOMS\62:freetext
+Free Text:OOMS\64:freetext
+Free Text:OOMS\64:freetext
+Free Text:OOMS\65:freetext
+Free Text:OOMS\65:freetext
+Free Text:OOMS\66:freetext
+Free Text:OOMS\67:freetext
+Free Text:OOMS\68:freetext
+Free Text:OOMS\69:freetext
+Free Text:OOMS\7:freetext
+Free Text:OOMS\70:freetext
+Free Text:OOMS\70:freetext
+Free Text:OOMS\71:freetext
+Free Text:OOMS\71:freetext
+Free Text:OOMS\72:freetext
+Free Text:OOMS\72:freetext
+Free Text:OOMS\8:freetext
+Free Text:OOMS\9:freetext
+Free Text:OOMS\A:freetext
+Free Text:OOMS\B:freetext
+Free Text:OOMS\C:freetext
+Free Text:OOMS\C1:freetext
+Free Text:OOMS\C10:freetext
+Free Text:OOMS\C2:freetext
+Free Text:OOMS\C3:freetext
+Free Text:OOMS\C4:freetext
+Free Text:OOMS\C5:freetext
+Free Text:OOMS\C6:freetext
+Free Text:OOMS\C7:freetext
+Free Text:OOMS\C8:freetext
+Free Text:OOMS\C9:freetext
+Free Text:OOMS\D:freetext
+Free Text:OOMS\E:freetext
+Free Text:OOMS\P1:freetext
+Free Text:OOMS\P2:freetext
+Free Text:OOMS\R1:freetext
+Free Text:OOMS\R2:freetext
+Free Text:OOMS\R3:freetext
+Free Text:OOMS\R4:freetext
+Free Text:OOMS\S1:freetext
+Free Text:OOMS\S2:freetext
+Free Text:OOMS\S3:freetext
+Free Text:OOMS\S4:freetext
+Free Text:OOMS\S5:freetext
+Free Text:OOSA\1:freetext
+Free Text:OOSA\10:freetext
+Free Text:OOSA\11:freetext
+Free Text:OOSA\13:freetext
+Free Text:OOSA\14:freetext
+Free Text:OOSA\14:freetext
+Free Text:OOSA\15:freetext
+Free Text:OOSA\16:freetext
+Free Text:OOSA\17:freetext
+Free Text:OOSA\18:freetext
+Free Text:OOSA\19:freetext
+Free Text:OOSA\2:freetext
+Free Text:OOSA\3:freetext
+Free Text:OOSA\4:freetext
+Free Text:OOSA\5:freetext
+Free Text:OOSA\6:freetext
+Free Text:OOSA\7:freetext
+Free Text:OOSA\8:freetext
+Free Text:OOSA\9:freetext
+Free Text:OOSA\Z:freetext
+Geo:GEO:
+Geo:OOKB:
+Geo:OOMS:
+Geo:OOSA:
+Runways:OOKB Khasab AB 01-19:centerline
+Runways:OOKB Khasab AB 01-19:extended centerline 1
+Runways:OOKB Khasab AB 01-19:extended centerline 1 left base
+Runways:OOKB Khasab AB 01-19:extended centerline 1 left ticks
+Runways:OOKB Khasab AB 01-19:extended centerline 1 left vectoring
+Runways:OOKB Khasab AB 01-19:extended centerline 1 right base
+Runways:OOKB Khasab AB 01-19:extended centerline 1 right ticks
+Runways:OOKB Khasab AB 01-19:extended centerline 1 right vectoring
+Runways:OOKB Khasab AB 01-19:extended centerline 2
+Runways:OOKB Khasab AB 01-19:extended centerline 2 left base
+Runways:OOKB Khasab AB 01-19:extended centerline 2 left ticks
+Runways:OOKB Khasab AB 01-19:extended centerline 2 left vectoring
+Runways:OOKB Khasab AB 01-19:extended centerline 2 right base
+Runways:OOKB Khasab AB 01-19:extended centerline 2 right ticks
+Runways:OOKB Khasab AB 01-19:extended centerline 2 right vectoring
+Runways:OOKB Khasab AB 01-19:name
+Runways:OOMS Muscat Intl 08-26:centerline
+Runways:OOMS Muscat Intl 08-26:extended centerline 1
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 left base
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 left ticks
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 left vectoring
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 right base
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 right ticks
+Runways:OOMS Muscat Intl 08-26:extended centerline 1 right vectoring
+Runways:OOMS Muscat Intl 08-26:extended centerline 2
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 left base
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 left ticks
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 left vectoring
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 right base
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 right ticks
+Runways:OOMS Muscat Intl 08-26:extended centerline 2 right vectoring
+Runways:OOMS Muscat Intl 08-26:name
+Runways:OOSA Salalah 07-25:centerline
+Runways:OOSA Salalah 07-25:extended centerline 1
+Runways:OOSA Salalah 07-25:extended centerline 1 left base
+Runways:OOSA Salalah 07-25:extended centerline 1 left ticks
+Runways:OOSA Salalah 07-25:extended centerline 1 left vectoring
+Runways:OOSA Salalah 07-25:extended centerline 1 right base
+Runways:OOSA Salalah 07-25:extended centerline 1 right ticks
+Runways:OOSA Salalah 07-25:extended centerline 1 right vectoring
+Runways:OOSA Salalah 07-25:extended centerline 2
+Runways:OOSA Salalah 07-25:extended centerline 2 left base
+Runways:OOSA Salalah 07-25:extended centerline 2 left ticks
+Runways:OOSA Salalah 07-25:extended centerline 2 left vectoring
+Runways:OOSA Salalah 07-25:extended centerline 2 right base
+Runways:OOSA Salalah 07-25:extended centerline 2 right ticks
+Runways:OOSA Salalah 07-25:extended centerline 2 right vectoring
+Runways:OOSA Salalah 07-25:name
+Runways:OOSA Salalah 17-35:centerline
+Runways:OOSA Salalah 17-35:extended centerline 1
+Runways:OOSA Salalah 17-35:extended centerline 1 left base
+Runways:OOSA Salalah 17-35:extended centerline 1 left ticks
+Runways:OOSA Salalah 17-35:extended centerline 1 left vectoring
+Runways:OOSA Salalah 17-35:extended centerline 1 right base
+Runways:OOSA Salalah 17-35:extended centerline 1 right ticks
+Runways:OOSA Salalah 17-35:extended centerline 1 right vectoring
+Runways:OOSA Salalah 17-35:extended centerline 2
+Runways:OOSA Salalah 17-35:extended centerline 2 left base
+Runways:OOSA Salalah 17-35:extended centerline 2 left ticks
+Runways:OOSA Salalah 17-35:extended centerline 2 left vectoring
+Runways:OOSA Salalah 17-35:extended centerline 2 right base
+Runways:OOSA Salalah 17-35:extended centerline 2 right ticks
+Runways:OOSA Salalah 17-35:extended centerline 2 right vectoring
+Runways:OOSA Salalah 17-35:name
+VORs:ALN:frequency
+VORs:ALN:name
+VORs:ALN:symbol
+VORs:ARD:frequency
+VORs:ARD:name
+VORs:ARD:symbol
+VORs:CBH:frequency
+VORs:CBH:name
+VORs:CBH:symbol
+VORs:FJV:frequency
+VORs:FJV:name
+VORs:FJV:symbol
+VORs:HAI:frequency
+VORs:HAI:name
+VORs:HAI:symbol
+VORs:IZK:frequency
+VORs:IZK:name
+VORs:IZK:symbol
+VORs:JI:frequency
+VORs:JI:name
+VORs:JI:symbol
+VORs:JSK:frequency
+VORs:JSK:name
+VORs:JSK:symbol
+VORs:MCT:frequency
+VORs:MCT:name
+VORs:MCT:symbol
+VORs:RAV:frequency
+VORs:RAV:name
+VORs:RAV:symbol
+VORs:SLL:frequency
+VORs:SLL:name
+VORs:SLL:symbol
+VORs:SUR:frequency
+VORs:SUR:name
+VORs:SUR:symbol
+VORs:THA:frequency
+VORs:THA:name
+VORs:THA:symbol
+VORs:TMR:frequency
+VORs:TMR:name
+VORs:TMR:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:GSiT
+WINDOWAREA:10.819723:35.231922:28.326263:77.792596

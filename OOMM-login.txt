@@ -1,0 +1,18 @@
+PROFILE
+PROFILE:OOMM_CTR:500:6
+ATIS2:Muscat Center
+ATIS3:Report callsign and position on initial contact
+ATIS4:Visit vatom.vatme.net for more info
+PROFILE:OOMS_APP:150:5
+ATIS2:Muscat Approach
+ATIS3:Report callsign and position on initial contact
+ATIS4:Visit vatom.vatme.net for more info
+PROFILE:OOMS_GND:20:3
+ATIS2:Muscat Ground
+ATIS3:Report callsign and position on initial contact
+ATIS4:Visit vatom.vatme.net for more info
+PROFILE:OOMS_TWR:50:4
+ATIS2:Muscat Tower
+ATIS3:Report callsign and position on initial contact
+ATIS4:Visit vatom.vatme.net for more info
+END
