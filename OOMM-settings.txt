@@ -33,7 +33,7 @@ m_ShowRouteWhenAccepting:1
 m_AllowAssumedACTagDown:0
 m_InhibitAutoPushOnHandoff:0
 m_RandomSquawks:1
-m_VFRSquawk:7000
+m_VFRSquawks:7000
 m_WhoIsOnlineURL:http://data.vattastic.com/vatsim-data.txt
 m_AutoLoadMetarForActiveAirports:0
 m_LockShowRouteWhenAccepting:0
@@ -105,7 +105,24 @@ m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:1
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
-m_CompensateMagneticVariation:0
+m_STCA_LowPreWarnTime:120
+m_STCA_LowWarnTime:150
+m_HighPreWarnTime:180
+m_STCA_HighWarnTime:240
+m_STCA_ShowCFL:1
+m_STCA_PlaySoundOnCFL:0
+m_STCA_PlaySoundOnTrackedOnly:1
+m_AutoCorrelateDisabledSQs:1200,2000,2200,7000,7700,7600,7500
+m_DontAutoCorrelateDuplicated:1
+m_AcceptPilotSquawkForCorrelation:1
+m_MTCA_Floor:10000
+m_MTCA_AltitudeDifference:2000
+m_MTCA_Distance:20.0
+m_UseIsectForScratchPad:1
+m_RotateRadarTargetSymbol:0
+m_RotateFlightPlanTrackSymbol:0
+m_RubberHeadingRounding:5
+SqawkForSModeTransponder:
 m_ShowControllers:1
 m_ShowAircraft:1
 m_ShowTextMessages:1
@@ -150,6 +167,19 @@ m_VoiceListX:1714
 m_VoiceListY:10
 m_ControllerListX:1793
 m_ControllerListY:12
+m_ShowPlaneRangeRingsTracked:0
+m_ShowPlaneRangeRingsUntracked:0
+m_PlaneRangeRingsDistance1:1.5
+m_PlaneRangeRingsDistance2:2.5
+m_PlaneRangeRingsDistance3:5.0
+m_PlaneRangeRingsDistance4:0.0
+m_ShowTooltips:1
+m_OnTheGroundAltitude:5000
+m_OnTheGroundSpeed:50
+m_ShowCdtOnCflCheck:0
+m_ShowTsVccsMiniControl:0
+ScenarioEditorX:0
+ScenarioEditorY:0
 SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:5395026:1.0:0:0:7
@@ -183,6 +213,8 @@ Datablock:redundant:11835060:3.5:0:0:7
 Datablock:information:65535:3.5:0:0:7
 Datablock:even flight level:44544:3.5:0:0:7
 Datablock:odd flight level:11898468:3.5:0:0:7
+Datablock:arrivals:16777215:3.5:0:0:7
+Datablock:departures:16777215:3.5:0:0:7
 Datablock:user 1:65535:3.5:0:0:7
 Datablock:user 2:16777215:3.5:0:0:7
 Datablock:user 3:16777215:3.5:0:0:7
@@ -198,6 +230,11 @@ Datablock:detailed background:5263440:3.2:0:0:7
 Datablock:active item background:3947580:3.2:0:0:7
 Datablock:AC list background:0:3.2:0:0:7
 Datablock:AC list selected background:2434341:3.2:0:0:7
+Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
+Datablock:SCTA warning rectangle:3289855:3.5:0:0:7
+Datablock:SCTA CFL used warning rectangle:65535:3.5:0:0:7
+Datablock:SCTA warning leader:3289855:3.5:0:3:7
+Datablock:SCTA CFL used warning leader:65535:3.5:0:3:7
 Controller:normal:65535:3.5:0:0:7
 Controller:breaking:13408767:3.5:0:0:7
 Controller:timeout:4227327:3.5:0:0:7
@@ -209,14 +246,24 @@ Other:distance line:4408078:3.5:0:0:7
 Other:distance values:10197792:4.0:0:1:7
 Other:distance annotation:10197792:3.5:0:0:7
 Other:separation leader:4408078:3.5:0:2:7
+Other:separation leader2:16777215:3.5:0:1:7
 Other:find:16777215:3.5:0:4:7
 Other:valid airway:13979906:3.5:0:1:7
 Other:bad direction airway:255:3.5:0:2:7
 Other:unconnected airway:33023:3.5:0:2:7
 Other:direct no airway:16776960:3.5:0:1:7
+Other:free of conflict:65280:3.5:0:2:7
+Other:conflict warning:65535:3.5:0:2:7
+Other:conflict detected:255:3.5:0:2:7
 Other:route annotation:11128266:3.2:0:2:7
 Other:freetext:8421504:3.0:0:0:7
 Other:range rings:10197792:5.0:0:0:2
+Other:off antenna range rings:255:5.0:0:0:2
+Other:plane range rings:5921370:5.0:0:0:2
+Other:manual taxi line:16777215:5.0:0:3:2
+Other:manual taxi line ends at predefined point:65535:5.0:0:3:2
+Other:predefined taxi line:65280:5.0:0:3:2
+Other:terminal taxi line:255:5.0:0:3:2
 Other:list header:11447982:3.5:0:0:7
 Other:normal menu item:16777215:3.5:0:0:7
 Other:disabled menu item:8421504:3.5:0:0:7
@@ -225,7 +272,11 @@ Chat:text:16777215:3.5:0:0:7
 Chat:background:526344:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
+Ground Network:exit:16711680:3.5:0:3:7
+Ground Network:taxiway:65280:3.5:0:3:7
+Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:4677893:4.0:4:1:7
+Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:0:3.5:0:0:7
 Sector:inactive sector background:526344:3.5:0:0:7
 SYMBOL:0
@@ -626,6 +677,12 @@ SYMBOLITEM:MOVETO -2 -2
 SYMBOLITEM:LINETO 3 3
 SYMBOLITEM:MOVETO -2 2
 SYMBOLITEM:LINETO 3 -3
+SYMBOL:22
+SYMBOLITEM:MOVETO -3 7
+SYMBOLITEM:LINETO 3 7
+SYMBOLITEM:LINETO 3 -7
+SYMBOLITEM:LINETO -3 -7
+SYMBOLITEM:LINETO -3 7
 m_ClipArea:7
 END
 VOICE
@@ -918,8 +975,8 @@ TAGITEM:17::0:1:10:14::0:1:::1
 END
 SIL
 m_Visible:1
-m_X:1060
-m_Y:842
+m_X:0
+m_Y:428
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:7
@@ -946,8 +1003,8 @@ m_Column:ASSR:5:1:60:31:31:1::::1867398211
 END
 SEL
 m_Visible:1
-m_X:645
-m_Y:843
+m_X:159
+m_Y:24
 m_LineNumber:6
 m_Resizable:1
 m_OrderingColumn:6
@@ -1024,4 +1081,21 @@ m_Column:ADEP:5:1:61:0:0:1::::1867398211
 m_Column:ADES:5:1:17:7:0:1::::1867398211
 m_Column:STS:6:1:82:34:34:1::::1867398211
 END
+CONFLICT
+m_Visible:0
+m_X:0
+m_Y:600
+m_LineNumber:6
+m_Resizable:0
+m_OrderingColumn:1
+m_HeaderOnly:0
+m_Column:TYPE:6:1:88:0:36:1::::2012298646
+m_Column:C/S:7:0:9:0:36:1::::2012298646
+m_Column:C/S:7:0:85:0:36:1::::2012298646
+m_Column:START:6:1:86:0:36:1::::2012298646
+m_Column:END:6:1:87:0:36:1::::2012298646
+END
+VCCS
+Ts3Server:localhost
+Ts3Port:9988
 PLUGINS

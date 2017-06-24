@@ -2,10 +2,6 @@ Settings	sector	\OOMM.sct
 Settings	Settingsfile	\OOMM-settings.txt
 Settings	AselKey	1769472
 Settings	FreqKey	2818048
-Settings	airlines	\DataFiles\ICAO_Airlines.txt
-Settings	airports	\DataFiles\ICAO_Airports.txt
-Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
-Settings	airways	\DataFiles\airway.txt
 Voice	PPPT	18677760
 Settings	alias	\OOMM-settings.txt
 Settings	AtisFolder	\UniATIS_OOMMV2\atisfiles.txt
@@ -18,6 +14,7 @@ Settings	SettingsfileSIL	\OOMM-settings.txt
 Settings	SettingsfileSEL	\OOMM-settings.txt
 Settings	SettingsfileDEP	\OOMM-settings.txt
 Settings	SettingsfilePLUGINS	\OOMM-settings.txt
+Settings	airways	\..\DataFiles\AIRWAY.txt
 Settings	SettingsfileSCREEN	\OOMM-settings.txt
 Voice	Grammar	\..\Settings\ESGrammar.txt
 Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
@@ -29,8 +26,8 @@ LastSession	callsign	OOMM_CTR
 LastSession	atis2	Muscat Center
 LastSession	atis_airport	OOMS
 LastSession	connecttype	0
-LastSession	facility	6
-LastSession	rating	4
+LastSession	facility	0
+LastSession	rating	3
 LastSession	atis3	Report callsign and position on initial contact
 LastSession	atis4	Visit vatom.vatme.net for more info
-LastSession	range	500
+LastSession	range	300
