@@ -1,0 +1,39 @@
+Settings	sector	\VATOMAN.sct
+Settings	Settingsfile	\Settings\Settings.txt
+Settings	AselKey	1769472
+Settings	FreqKey	2818048
+Settings	airlines	\DataFiles\ICAO_Airlines.txt
+Settings	airports	\DataFiles\ICAO_Airports.txt
+Settings	aircraft	\DataFiles\ICAO_Aircraft.txt
+Settings	airways	\DataFiles\airway.txt
+Voice	PPPT	18677760
+Settings	alias	\OOMM-settings.txt
+Settings	AtisFolder	\UniATIS_OOMMV2\atisfiles.txt
+Voice	SPPT	3538944
+Settings	SettingsfileSYMBOLOGY	\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\Settings\VoiceChannels.txt
+Settings	SettingsfilePROFILE	\Settings\Profiles.txt
+Settings	SettingsfileTAGS	\Settings\Tags.txt
+Settings	SettingsfileSIL	\Settings\SectorInboundList.txt
+Settings	SettingsfileSEL	\Settings\SectorExitList.txt
+Settings	SettingsfileDEP	\Settings\DepartureList.txt
+Settings	SettingsfilePLUGINS	\Settings\Plugins.txt
+Settings	SettingsfileSCREEN	\Settings\Screen.txt
+Voice	Grammar	\..\Settings\ESGrammar.txt
+Settings	SectorFileProviderDescriptor	\..\SectorFileProviderDescriptor.txt
+RecentFiles	Recent1	\VATOMAN.asr
+Settings	SettingsfileARR	\Settings\ArrivalList
+Settings	SettingsfileFP	\Settings\FPList
+Settings	SettingsfileCONFLICT	\Settings\Conflict.txt
+LastSession	callsign	OOMM_CTR
+LastSession	atis2	Muscat Control
+LastSession	atis_airport	OOMS
+LastSession	connecttype	0
+LastSession	facility	5
+LastSession	rating	4
+LastSession	atis3	Report callsign with heading and altitude on first contact
+LastSession	atis4	Charts/procedures @ www.vatame.org/vacc/OOMM
+LastSession	range	150
+LastSession	tovatsim	1
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

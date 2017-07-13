@@ -1,0 +1,30 @@
+PROFILE
+PROFILE:OOMM_CTR:350:6
+ATIS2:Muscat Control
+ATIS3:Report callsign with heading and altitude on first contact
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+PROFILE:OOMS_APP:150:5
+ATIS2:Seeb Approach
+ATIS3:Report callsign with position on first contact. Monitor ATIS 126.600.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+PROFILE:OOMS_GND:20:3
+ATIS2:Seeb Ground
+ATIS3:Report callsign with position first contact. Monitor ATIS 126.600.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+PROFILE:OOMS_TWR:50:4
+ATIS2:Seeb Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 126.600.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+PROFILE:XX_OBS:100:0
+ATIS2:Muscat ATC Observer
+ATIS3:
+ATIS4:
+PROFILE:OOSA_APP:150:5
+ATIS2:Salalah Approach
+ATIS3:Report callsign with position on first contact. Monitor ATIS 125.100.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+PROFILE:OOMS_TWR:50:4
+ATIS2:Salalah Tower
+ATIS3:Report callsign with position first contact. Monitor ATIS 125.100.
+ATIS4:Charts/procedures @ www.vatame.org/vacc/OOMM
+END

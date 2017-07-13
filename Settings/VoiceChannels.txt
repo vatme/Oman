@@ -1,0 +1,10 @@
+VOICE
+AG:OOMM_CTR:123.950:voice1.vatsim-germany.org:oomm_ctr
+AG:OOMS_APP:121.200:voice1.vatsim-germany.org:ooms_app
+AG:OOMS_TWR:118.400:voice1.vatsim-germany.org:ooms_twr
+AG:OOMS_GND:121.800:voice1.vatsim-germany.org:ooms_gnd
+AG:OOMS_ATIS:126.800:voice1.vatsim-germany.org:ooms_atis
+AG:OOSA_APP:119.100:voice1.vatsim-germany.org:oosa_app
+AG:OOSA_TWR:118.200:voice1.vatsim-germany.org:oosa_twr
+AG:OOSA_ATIS:125.100:voice1.vatsim-germany.org:oosa_atis
+END
