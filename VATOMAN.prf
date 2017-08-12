@@ -33,7 +33,7 @@ LastSession	facility	5
 LastSession	rating	4
 LastSession	atis3	Report callsign with heading and altitude on first contact
 LastSession	atis4	Charts/procedures @ www.vatame.org/vacc/OOMM
-LastSession	range	150
+LastSession	range	350
 LastSession	tovatsim	1
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
